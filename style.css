@@ -1,0 +1,18 @@
+.container{
+    background-color: #a2abb4;
+}
+
+h1{
+    color: #ffffff;
+    text-shadow: 2px 2px black;
+}
+
+h2{
+    color: rgb(0,204,255);
+    text-shadow: 1px 1px darkblue;
+}
+
+#news{
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
